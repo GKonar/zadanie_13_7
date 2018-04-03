@@ -1,0 +1,1 @@
+Nadpisujemy istniejący tekst o refaktoryzacjiw nowym pliku
